@@ -1,0 +1,24 @@
+{
+  "short_name": "scheduler",
+  "name": "App to create schedule info view",
+  "icons": [{
+      "src": "clock_small",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "clock.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "clock.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

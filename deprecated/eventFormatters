@@ -1,0 +1,13 @@
+const dat = d.map((e) => {
+        const wrongDayTime = moment(e.start)
+        const hours = wrongDayTime.hours()
+        const minuts = wrongDayTime.minutes()
+        const currentDay = moment({ hour: hours, minute: minuts })
+        return {
+          ...e,
+          start: currentDay,
+          image: images.find((i) => i.label === e.image).image,
+        }
+      })
+      setEvents(dat)
+    })

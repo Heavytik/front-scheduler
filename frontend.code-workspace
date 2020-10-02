@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "workbench.colorCustomizations": {
+      "titleBar.activeBackground": "#5c9c1f"
+    },
+    "workbench.colorTheme": "Monokai"
+  }
+}

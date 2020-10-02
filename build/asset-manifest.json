@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2ae8a566.chunk.css",
+    "main.js": "/static/js/main.ea26ef5c.chunk.js",
+    "main.js.map": "/static/js/main.ea26ef5c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a5675d0b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a5675d0b.js.map",
+    "static/js/2.9ee29e46.chunk.js": "/static/js/2.9ee29e46.chunk.js",
+    "static/js/2.9ee29e46.chunk.js.map": "/static/js/2.9ee29e46.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.eac3b89bb7904067c69ca70460b6d89e.js": "/precache-manifest.eac3b89bb7904067c69ca70460b6d89e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.2ae8a566.chunk.css.map": "/static/css/main.2ae8a566.chunk.css.map",
+    "static/js/2.9ee29e46.chunk.js.LICENSE.txt": "/static/js/2.9ee29e46.chunk.js.LICENSE.txt",
+    "static/media/book.svg": "/static/media/book.0d119719.svg",
+    "static/media/breakfast.svg": "/static/media/breakfast.c45b7f65.svg",
+    "static/media/evening.svg": "/static/media/evening.899365e8.svg",
+    "static/media/food.svg": "/static/media/food.57171403.svg",
+    "static/media/freetime.svg": "/static/media/freetime.54cc8934.svg",
+    "static/media/outdoor.svg": "/static/media/outdoor.e6712652.svg",
+    "static/media/playtime.svg": "/static/media/playtime.ab902bd6.svg",
+    "static/media/sleep.svg": "/static/media/sleep.2ff205d3.svg",
+    "static/media/study.svg": "/static/media/study.46ea4ff5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5675d0b.js",
+    "static/js/2.9ee29e46.chunk.js",
+    "static/css/main.2ae8a566.chunk.css",
+    "static/js/main.ea26ef5c.chunk.js"
+  ]
+}
